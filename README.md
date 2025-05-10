@@ -1,1 +1,2 @@
-# Introducao-a-Computacao
+# INTRODUÇÃO À COMPUTAÇÃO
+exercícios realizados durante o curso
